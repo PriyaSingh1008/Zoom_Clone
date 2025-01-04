@@ -1,5 +1,10 @@
 You can find the demo of the app here-
-https://github.com/user-attachments/assets/2c1b70fe-9a63-481f-9534-b4650c360588
+
+
+
+
+
+https://github.com/user-attachments/assets/9bbe7ff1-b008-458a-8d12-7ae36e8011cb
 
 
 Built with the latest Next.js and TypeScript, this project replicates Zoom, a widely used video conferencing tool. It enables users to securely log in, create meetings and access various meeting functionalities such as recording, screen sharing, and managing participants.
